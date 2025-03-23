@@ -1,11 +1,9 @@
 import os
 import math
 
-# math.atan2()
-
+import pygame
 import win32api
 import win32con
-import pygame
 os.system('cls')
 
 
@@ -121,11 +119,6 @@ def main():
                     sc.get_height() / 2 - y_on_screen - text.get_height() - 5
                 )
             )
-            # print(distance, x_on_screen, y_on_screen)
-            # print(angle_degrees, math.cos(angle_degrees), math.sin(angle_degrees))
-            
-            # print([f'{x:.3f}' for x in[entity_x - local_x, entity_z - local_z]])
-        
 
         pygame.display.update()
         clock.tick(128)
