@@ -1,7 +1,7 @@
 # AssaultCube-Pymem-External-Radar-Hack
 **Pymem external radar hack for assault cube**
 
-![Loli XD](https://i.imgur.com/L5mdsVS.png "Ссылка на Imgur")
+![Img](https://i.imgur.com/L5mdsVS.png "Ссылка на Imgur")
 
 # **Description**
 External radar hack для AssaultCube v1.3.0.2.
